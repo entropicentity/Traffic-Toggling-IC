@@ -4,7 +4,7 @@ project:
   title:        "3 State Traffic Toggle"      # Project title
   author:       "Alexander Singer"      # Your name
   discord:      "entropicentity"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "A 3 state state system that switches 3 outputs by the clock system"      # One line description of what your project does
+  description:  "A 3 state state system that switches 3 outputs by the clock signal"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     1       # Clock frequency in Hz (or 0 if not applicable)
 
